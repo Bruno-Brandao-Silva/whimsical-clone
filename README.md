@@ -1,11 +1,11 @@
-# Clone do Site Unity.com
+# Clone do Site Whimsical.com
 
-Este é um projeto de clone do site [Whinsical](https://whinsical.com/), desenvolvido como parte do meu portfólio para demonstrar minhas habilidades de desenvolvimento web. O objetivo foi recriar a aparência e a funcionalidade geral do site oficial da Whinsical usando HTML e CSS.
+Este é um projeto de clone do site [whimsical](https://whimsical.com/), desenvolvido como parte do meu portfólio para demonstrar minhas habilidades de desenvolvimento web. O objetivo foi recriar a aparência e a funcionalidade geral do site oficial da whimsical usando HTML e CSS.
 
 ## Recursos Implementados
 
 - **Página Principal (Home)**:
-  - Reprodução fiel da estrutura e layout da página inicial da Whinsical.
+  - Reprodução fiel da estrutura e layout da página inicial da whimsical.
   - Uso de HTML e CSS para posicionar elementos e estilizar o conteúdo.
 
 ## Tecnologias Utilizadas
@@ -18,7 +18,7 @@ Este é um projeto de clone do site [Whinsical](https://whinsical.com/), desenvo
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/Bruno-Brandao-Silva/whinsical-clone.git
+   git clone https://github.com/Bruno-Brandao-Silva/whimsical-clone.git
     ```
 
 2. **Abra o Arquivo index.html**:
